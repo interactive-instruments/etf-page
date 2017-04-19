@@ -1,0 +1,8 @@
+title: Etf-webapp
+description: ETF is an open source testing framework for testing geo network services and data.
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-minimal
+
+gems:
+  - jekyll-mentions
